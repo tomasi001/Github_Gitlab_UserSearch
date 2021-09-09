@@ -1,6 +1,6 @@
 How to run this app
 
-copy folders into a project folder
+download and copy folders into a project folder
 
 navigate to that folder in your command line interface
 
