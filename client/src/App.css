@@ -1,0 +1,12 @@
+/* center text */
+.searchField,
+.searchHeader,
+.userSearched,
+.loadingMessage {
+  text-align: center;
+}
+
+/* remove list styling */
+li {
+  list-style-type: none;
+}
